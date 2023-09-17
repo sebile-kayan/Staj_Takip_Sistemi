@@ -1,0 +1,134 @@
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Form1.resources
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\Yigit\source\repos\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.girisSayfasi.resources
+C:\Users\HP\Desktop\staj takip sistemi\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.kullaniciGiris.resources
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.girisSayfasi.resources
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.kullaniciGiris.resources
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminGiris.resources
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiGiris.resources
+C:\Users\Lenovo\Desktop\staj takip sistemi\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelEkranı.resources
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminGiris.resources
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.girisSayfasi.resources
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.kullaniciGiris.resources
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelEkranı.resources
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiGiris.resources
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelPanel.resources
+C:\Users\burak\Desktop\stajtakipsistemim-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.stajyerBilgi.resources
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminGiris.resources
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.girisSayfasi.resources
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.kullaniciGiris.resources
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelEkranı.resources
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelPanel.resources
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.stajyerBilgi.resources
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiGiris.resources
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\Yigit\Desktop\staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminGiris.resources
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.girisSayfasi.resources
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.kullaniciGiris.resources
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelPanel.resources
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.stajyerBilgi.resources
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiGiris.resources
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\Yigit\Desktop\staj_takip\crud_staj_takip\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminGiris.resources
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.girisSayfasi.resources
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.kullaniciGiris.resources
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelPanel.resources
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.stajyerBilgi.resources
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiGiris.resources
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
+C:\Users\HP\Desktop\staj takip sistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiEkrani.resources
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminGiris.resources
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.girisSayfasi.resources
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.kullaniciGiris.resources
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelPanel.resources
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.stajyerBilgi.resources
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiEkrani.resources
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiGiris.resources
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
+C:\Users\Yigit\Desktop\son_dosya\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminPanel.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminGiris.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminPanel.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.girisSayfasi.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.kullaniciGiris.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelPanel.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.stajyerBilgi.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiEkrani.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiGiris.resources
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
