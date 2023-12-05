@@ -132,3 +132,20 @@ C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud
 C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiGiris.resources
 C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
 C:\Users\Lenovo\Desktop\stajts\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe.config
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.exe
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\bin\Debug\Staj Takip Sistemi.pdb
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminGiris.resources
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.adminPanel.resources
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.girisSayfasi.resources
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.kullaniciGiris.resources
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.personelPanel.resources
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.stajyerBilgi.resources
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiEkrani.resources
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj_Takip_Sistemi.yoneticiGiris.resources
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.exe
+C:\Users\Lenovo\Desktop\GitHub\StajTakipSistemi\crud_staj_takip-main\Staj-Takip-Sistemi-main\crud-main\Staj Takip Sistemi\Staj Takip Sistemi\obj\Debug\Staj Takip Sistemi.pdb
